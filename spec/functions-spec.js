@@ -14,6 +14,7 @@ describe("sub", function() {
   });
 })
 
+
 describe("mul", function() {
   it("should multiply 2 numbers", function() {
     expect(mul(3,4)).toEqual(12);
